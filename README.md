@@ -9,3 +9,5 @@ I feel good about my code: 4
 Orginally had issues getting both API's to work. Planning to add an input to search for characters, currently is only randomized. WIll also uodate with CSS.
 
 <a href="https://anime-api-daphnyemily.netlify.app/">LIVE DEMO</a>
+
+<img src="https://github.com/daphnyemily/complex-api2-bootcamp/blob/answer/animeAPI.png">
